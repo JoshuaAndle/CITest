@@ -24,6 +24,7 @@ let cardArray =  [
 //Adding a harmless comment
 //Adding a harmless comment
 //Adding a harmless comment
+//Adding a harmless comment
 it("Decks page can go to the next page", () => {
     const {queryByTestId} = render(<DecksPage cardArray={cardArray}></DecksPage>);
 

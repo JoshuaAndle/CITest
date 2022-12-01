@@ -1,17 +1,70 @@
-# Team-CompEdu
-# Memento Flashcard Application
+# Getting Started with Create React App
 
-## Team Members:  
--**Josh Andle**: PM  
--**Anthony Attaya-Harris**: Dev  
--**Evan Hamer**: Dev  
--**Mohammed Fazli**: Designer  
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project Kanban:
-https://app.zenhub.com/workspaces/cos420-fall-2022-correct-workspace-6323624757d9ee0018e39895/board?invite=3KeJ43BhbrTh5tbxA8ixqkyS
+## Available Scripts
 
-## Mission Statement:
-"Tackling the challenges in student learning"
+In the project directory, you can run:
 
-## Problem:
-In computing education, oftentimes we are presented with very complicated information which is hard to remember. As a result of such an informationally dense field, students often forget key pieces of work which can hinder the quality of their life and the quality of their grades, potentially leading them to drop out of their degree program. Sorting through a vast pile of notes just minutes before an exam is not a productive way to remember the information contained in those notes. Students do not review study material frequently enough to remember and comprehend it which leads to failure to learn earlier material. Text editors such as google docs offer great ways to record notes but do not offer the ability to quickly transcribe to notecards or study reviews. Study tools such as Quizlet require time-consuming creation of flashcards from scratch instead of using student’s notes in other applications. How can we help students remember material more effectively by lowering the cost of making study materials and reviewing them?
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
